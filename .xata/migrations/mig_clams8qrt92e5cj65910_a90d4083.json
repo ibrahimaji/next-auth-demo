@@ -1,0 +1,17 @@
+{
+  "id": "mig_clams8qrt92e5cj65910",
+  "parentID": "mig_clamrtart92e5cj658o0",
+  "checksum": "1:a90d4083260eafaae2afc69ada8e707cca928b5df57e3edc0bc6c3fea8da8f50",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "name",
+          "type": "string",
+          "unique": true
+        },
+        "table": "folders"
+      }
+    }
+  ]
+}

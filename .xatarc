@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://ibrahimaji-s-workspace-4gj8ve.ap-southeast-2.xata.sh/db/test-auth-db",
+  "codegen": {
+    "output": "src/xata.ts"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "id": "mig_clamrtart92e5cj658o0",
+  "checksum": "1:4fb34069f076f7d4f66d622c40248337cbffd08c263894d2d8f32441e9c3eb1b",
+  "operations": [
+    {
+      "addTable": {
+        "table": "folders"
+      }
+    }
+  ]
+}
